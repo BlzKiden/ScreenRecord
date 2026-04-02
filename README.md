@@ -49,7 +49,6 @@ pip install opencv-python pyautogui PyQt5 numpy Pillow
 ```
 .
 ├── screen_recorder.py    # 主程序文件
-├── ico.ico               # 程序图标文件
 └── README.md             # 说明文档
 ```
 
