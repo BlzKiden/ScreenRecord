@@ -1,7 +1,6 @@
 # ScreenRecord · 全屏录屏工具(gogui / C++)
 
-基于 **gogui**(C++ / ImGui 风格 GUI)的屏幕录制工具。把原 Python/PyQt5 版
-(`screen_recorder.py`)重写为 **C++ 原生 + 静态内嵌编码器**的版本:
+基于 **gogui**(C++ / ImGui 风格 GUI)的屏幕录制工具:
 
 - **抓屏**:Windows GDI `BitBlt`(全系统自带,无第三方依赖)
 - **编码**:**OpenH264(H.264)** 静态链接进 exe —— 不依赖目标机是否装有系统编码器,
